@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.javatpoint&apos; to &apos;com.hibernate&apos;&#x0D;&#x0A;- Original project: &apos;hblog4j&apos;&#x0D;&#x0A;- Original element: &apos;hblog4j/src/com.javatpoint&apos;&#x0D;&#x0A;- Renamed element: &apos;hblog4j/src/com.hibernate&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.javatpoint&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.javatpoint" name="com.hibernate" qualified="false" references="true" stamp="1597302093505" textual="false" version="1.0"/>
+</session>

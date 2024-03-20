@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\skatt\eclipse-workspace\AWS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2287050534.index

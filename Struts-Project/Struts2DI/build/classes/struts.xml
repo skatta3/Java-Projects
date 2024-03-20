@@ -1,0 +1,16 @@
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+
+<struts>
+	<bean class="com.struts.di.ProductManager" name="man" />
+ 
+<package name="p1" extends="struts-default" namespace="">
+	<action name="add" class="com.struts.di.AddProductAction">
+		<result type="redirectAction">list</result>
+	</action> 
+ 
+	<action name="list" class="com.struts.di.ListProductAction">
+		<result>list.jsp</result>
+	</action>
+</package>
+ 
+</struts>

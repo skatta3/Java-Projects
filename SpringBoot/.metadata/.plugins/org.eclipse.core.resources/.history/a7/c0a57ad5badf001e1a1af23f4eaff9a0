@@ -1,0 +1,10 @@
+package com.yakrut.AddressService.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AddressController {
+	public string getAddress() {
+		return "136, Rosegate ct";
+	}
+}

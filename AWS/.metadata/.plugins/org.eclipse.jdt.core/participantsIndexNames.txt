@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\skatt\eclipse-workspace\AWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1529537237.index
+\mywebapp\src\main\java
+C:\Users\skatt\eclipse-workspace\AWS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1891573886.index
+\DynamoDB-SpringBoot\src\main\java

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.java.customexceptions&apos; to &apos;Test-Project/src&apos;&#x0D;&#x0A;- Original project: &apos;Exceptions&apos;&#x0D;&#x0A;- Destination element: &apos;Test-Project/src&apos;&#x0D;&#x0A;- Original element: &apos;Exceptions/src/com.java.customexceptions&apos;" description="Copy package" destination="=Test-Project/src" element1="/src&lt;com.java.customexceptions" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1636160009473" version="1.0"/>
+</session>

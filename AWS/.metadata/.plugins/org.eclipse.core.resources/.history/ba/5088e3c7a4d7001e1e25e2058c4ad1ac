@@ -1,0 +1,10 @@
+package com.jaxrs.domain;
+
+public class Configurations {
+	private Integer size;
+	
+	private Link link;
+	
+	private List<configuration> configurations;
+	
+}

@@ -1,0 +1,5 @@
+package com.jps.hibernate.service;
+
+public class EmployeeManager {
+
+}

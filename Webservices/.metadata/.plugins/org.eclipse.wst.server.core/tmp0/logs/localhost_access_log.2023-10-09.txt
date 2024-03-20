@@ -1,0 +1,16 @@
+127.0.0.1 - - [09/Oct/2023:06:11:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:11:26 +0530] "GET /UserManagement/ HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:12:16 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 200 220
+127.0.0.1 - - [09/Oct/2023:06:15:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:15:04 +0530] "GET /UserManagement/ HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:15:15 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 200 220
+127.0.0.1 - - [09/Oct/2023:06:16:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:16:38 +0530] "GET /UserManagement/ HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:16:44 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 500 5284
+127.0.0.1 - - [09/Oct/2023:06:18:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:18:59 +0530] "GET /UserManagement/ HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:19:05 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 500 5284
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:20:54 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 500 5284
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:21:38 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 500 5284
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:21:59 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 500 5284
+0:0:0:0:0:0:0:1 - - [09/Oct/2023:06:22:11 +0530] "GET /UserManagement/rest/UserService/users HTTP/1.1" 500 5284

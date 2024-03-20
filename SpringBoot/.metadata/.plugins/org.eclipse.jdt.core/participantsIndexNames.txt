@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\skatt\eclipse-workspace\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\617526715.index
+\usersProject\src
+C:\Users\skatt\eclipse-workspace\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3511344918.index
+\S3FilesWeb\src\main\java
+C:\Users\skatt\eclipse-workspace\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\364555431.index
+\usersProject\src
+C:\Users\skatt\eclipse-workspace\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1914162269.index
+\FileUpload\src\main\java
+C:\Users\skatt\eclipse-workspace\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4210599541.index
+\S3FilesWeb\src\main\java

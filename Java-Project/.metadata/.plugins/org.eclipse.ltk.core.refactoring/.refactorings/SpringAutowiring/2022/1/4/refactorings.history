@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;SpringAutowiring&apos;&#x0D;&#x0A;- Original project: &apos;SpringAutowiring&apos;&#x0D;&#x0A;- Original element: &apos;SpringAutowiring/src/main/java/autowired&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;autowired" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1642826051077" subPackages="false" version="1.0"/>
+</session>

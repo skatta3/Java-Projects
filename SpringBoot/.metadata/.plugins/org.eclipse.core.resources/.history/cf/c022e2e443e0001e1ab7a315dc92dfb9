@@ -1,0 +1,5 @@
+package com.yakrut.EmployeeService.response;
+
+public class EmployeeResponse {
+
+}

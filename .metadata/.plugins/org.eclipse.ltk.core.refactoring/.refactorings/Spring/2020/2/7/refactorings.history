@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Beans.xml&apos; to &apos;SpringDIExample&apos;" description="Move &apos;Beans.xml&apos; to &apos;SpringDIExample&apos;" destination="/SpringDIExample" element1="/SpringProject/src/Beans.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1581305233009" updateReferences="true"/>
+</session>

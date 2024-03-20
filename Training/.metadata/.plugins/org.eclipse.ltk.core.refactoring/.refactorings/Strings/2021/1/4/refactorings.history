@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.java.strings.StringConcat&apos; to &apos;StringConcatPlusLiterals&apos;&#x0D;&#x0A;- Original project: &apos;Strings&apos;&#x0D;&#x0A;- Original element: &apos;com.java.strings.StringConcat&apos;&#x0D;&#x0A;- Renamed element: &apos;com.java.strings.StringConcatPlusLiterals&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StringConcat&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.java.strings{StringConcat.java[StringConcat" matchStrategy="1" name="StringConcatPlusLiterals" qualified="false" references="true" similarDeclarations="false" stamp="1611304925576" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package com.jaxrs.common;
+
+public enum Status {
+
+	ACTIVE("active"), INACTIVE("inactive");
+	
+	private String value;
+
+	private Status(String value) {
+	      this.value = value;
+	   }
+
+	public String getValue() {
+		return value;
+	}
+
+}

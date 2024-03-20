@@ -1,0 +1,5 @@
+package com.yakrut.EmployeeService.repo;
+
+public interface EmployeeRepo extends JpaRepository<Employee, Integer> {
+
+}

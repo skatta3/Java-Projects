@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.1.xsd">
+
+
+	<tx:annotation-driven proxy-target-class="true" transaction-manager="transactionManager"/>
+ 
+ 	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+ 		<property name="dataSource" ref="dataSource"></property>
+ 	</bean>
+ 	
+ 	
+   <!-- Initialization for data source -->
+   <bean id = "dataSource" 
+      class = "org.springframework.jdbc.datasource.DriverManagerDataSource">
+      <property name = "driverClassName" value = "com.mysql.jdbc.Driver"/>
+      <property name = "url" value = "jdbc:mysql://localhost:3306/emp"/>
+      <property name = "username" value = "root"/>
+      <property name = "password" value = "admin"/>
+   </bean>
+
+   <!-- Definition for studentJDBCTemplate bean -->
+   <bean id = "studentJDBCTemplate" 
+      class = "com.springjdbc.xml.dao.StudentDAOImpl">
+      <property name = "dataSource" ref = "dataSource" />    
+   </bean>
+      
+</beans>

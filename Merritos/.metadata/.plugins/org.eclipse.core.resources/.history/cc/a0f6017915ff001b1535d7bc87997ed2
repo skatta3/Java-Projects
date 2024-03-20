@@ -1,0 +1,25 @@
+package com.hibernate;
+
+public class MainApp {
+	
+	public static void main(String[] args) {
+		
+		
+		sessionFactory
+		
+		session
+		
+		transaction
+		
+		Employee emp1 = new Employee();
+		emp1.setId(1);
+		emp1.setFirstName("Ken ");
+		emp1.setLastName("Caldwell");
+		
+		Employee emp2 = new Employee();
+		emp2.setId(2);
+		emp2.setFirstName("Mark ");
+		emp2.setLastName("Taylor");
+	}
+
+}

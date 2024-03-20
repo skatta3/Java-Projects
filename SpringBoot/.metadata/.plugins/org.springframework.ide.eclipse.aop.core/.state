@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBootDB"/>
+<aop-project name="SpringBoot-01"/>
+<aop-project name="Springboot-example"/>
+<aop-project name="limits-service"/>
+<aop-project name="spring-boot-cache-example"/>
+<aop-project name="currency-exchange-service"/>
+<aop-project name="FirstSpringBoot"/>
+</aop-reference-model>

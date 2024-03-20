@@ -1,0 +1,5 @@
+package com.jps.hibernate.model;
+
+public class EmployeeEntity {
+
+}

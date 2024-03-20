@@ -1,0 +1,5 @@
+package com.yakrut.AddressService.controller;
+
+public class AddressController {
+
+}

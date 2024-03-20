@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.training.innerclasses.InnerClassExample&apos; to &apos;Car&apos;&#x0D;&#x0A;- Original project: &apos;Test-Bezu&apos;&#x0D;&#x0A;- Original element: &apos;com.training.innerclasses.InnerClassExample&apos;&#x0D;&#x0A;- Renamed element: &apos;com.training.innerclasses.Car&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InnerClassExample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.training.innerclasses{InnerClassExample.java[InnerClassExample" matchStrategy="1" name="Car" qualified="false" references="true" similarDeclarations="false" stamp="1655952268618" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,1 @@
+2022-02-25 21:44:51,494 0      [           main] ERROR   org.hibernate.util.XMLHelper  - Error parsing XML: C:\Users\skatt\eclipse-workspace\Java-Project\Hibernate-Examples\src\main\java\hibernate.cfg.xml(1) The markup declarations contained or pointed to by the document type declaration must be well-formed.

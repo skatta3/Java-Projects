@@ -1,0 +1,15 @@
+package com.java.ems;
+
+public class Recruiter extends Employee {
+	
+	Employee emp1 = new Employee();
+	
+	
+	// Method Overriding
+	
+	@Override
+	public void calculaeBonus() {
+		float bonus = this.getEmpSal() * 2.5f;
+	}
+
+}

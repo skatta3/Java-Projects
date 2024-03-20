@@ -1,0 +1,8 @@
+package com.jaxrs.common;
+
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name="message")
+public class Message {
+
+}

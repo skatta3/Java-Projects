@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Aug 11 08:54:44 IST 2021
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\skatt\\.m2\\repository\\org\\springframework\\spring-web\\5.3.4\\spring-web-5.3.4.jar=WEB-INF/lib/spring-web-5.3.4.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\skatt\\.m2\\repository\\org\\springframework\\spring-web\\5.3.8\\spring-web-5.3.8.jar=WEB-INF/lib/spring-web-5.3.8.jar

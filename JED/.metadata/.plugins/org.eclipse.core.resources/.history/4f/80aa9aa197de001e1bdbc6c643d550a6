@@ -1,0 +1,5 @@
+package com.jpa.hibernate.util;
+
+public class JPAUtil {
+
+}

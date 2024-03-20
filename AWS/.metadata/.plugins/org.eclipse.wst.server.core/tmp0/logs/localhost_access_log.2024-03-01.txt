@@ -1,0 +1,8 @@
+127.0.0.1 - - [01/Mar/2024:16:26:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:16:26:36 +0530] "GET /Jax-RS-PD23/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:16:27:25 +0530] "GET /Jax-RS-PD23/configurations HTTP/1.1" 404 781
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:16:28:22 +0530] "GET /Jax-RS-PD23/NetworkManagement/configurations HTTP/1.1" 404 803
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:16:29:05 +0530] "GET /Jax-RS-PD23/network-management/configurations HTTP/1.1" 200 418
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:16:36:18 +0530] "GET /Jax-RS-PD23/network-management/configurations/1 HTTP/1.1" 200 190
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:16:40:55 +0530] "POST /Jax-RS-PD23/network-management/configurations HTTP/1.1" 201 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:16:42:10 +0530] "GET /Jax-RS-PD23/network-management/configurations HTTP/1.1" 200 551

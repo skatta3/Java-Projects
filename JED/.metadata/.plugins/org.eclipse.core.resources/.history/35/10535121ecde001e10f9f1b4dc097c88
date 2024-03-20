@@ -1,0 +1,5 @@
+package com.jps.hibernate.validator;
+
+public class EmployeeValidator {
+
+}

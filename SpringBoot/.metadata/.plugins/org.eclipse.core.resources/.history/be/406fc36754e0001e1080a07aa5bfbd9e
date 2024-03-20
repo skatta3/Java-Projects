@@ -1,0 +1,9 @@
+package com.yakrut.AddressService.entity;
+
+import org.apache.logging.log4j.message.AsynchronouslyFormattable;
+
+@Entity
+@Table(name="address")
+public class Address {
+
+}

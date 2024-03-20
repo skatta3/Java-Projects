@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:context = "http://www.springframework.org/schema/context"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+   http://www.springframework.org/schema/context
+   http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<context:annotation-config/>
+	
+	<!--  Autowiring by Name , it uses Setter Based Injection internally
+	<bean id="car" class="com.spring.autowiring.Car" autowire="byName"/>
+	<bean id="driver" class="com.spring.autowiring.Driver"/>
+	-->
+	
+	<!-- Autowiring by Type, it uses Setter Based Injection internally
+	<bean id="car" class="com.spring.autowiring.Car" autowire="byType"/>
+	<bean id="driverBean" class="com.spring.autowiring.Driver"/>
+	  -->
+	 
+	 
+	<!-- Autowiring by Constructor, it uses Constructor based injection internally  
+	<bean id="car" class="com.spring.autowiring.Car" />
+	<bean id="driverBean1" class="com.spring.autowiring.Driver" autowire="constructor"/>
+	-->
+	
+	<!-- Autowiring with @Autowired Annotation -->  
+	<bean id="car" class="com.spring.autowiring.Car" scope="prototype"/>
+	<bean id="driverBean1" class="com.spring.autowiring.Driver" />
+	<bean id="driverBean2" class="com.spring.autowiring.Driver" />
+</beans>

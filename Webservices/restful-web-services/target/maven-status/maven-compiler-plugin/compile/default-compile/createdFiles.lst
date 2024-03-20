@@ -1,0 +1,6 @@
+com\training\server\main\user\UserNotFoundException.class
+com\training\server\main\user\UserDaoService.class
+com\training\server\main\user\UserResource.class
+com\training\server\main\user\User.class
+com\training\server\main\schemaObjs\DefaultResponse.class
+com\training\server\main\RestfulWebServicesApplication.class

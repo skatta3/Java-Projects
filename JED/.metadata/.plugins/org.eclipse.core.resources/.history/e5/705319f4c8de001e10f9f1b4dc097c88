@@ -1,0 +1,5 @@
+package com.jps.hibernate.dao;
+
+public class EmployeeDAOImpl {
+
+}

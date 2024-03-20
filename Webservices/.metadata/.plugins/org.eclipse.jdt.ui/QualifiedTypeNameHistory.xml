@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.javamavenjunithelloworld.Hello"/>
+    <fullyQualifiedTypeName name="org.glassfish.jersey.model.internal.RankedComparator.Order"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.client.Client"/>
+    <fullyQualifiedTypeName name="com.sun.jersey.api.client.Client"/>
+    <fullyQualifiedTypeName name="com.sun.jersey.api.client.ClientResponse"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.training.server.main.exception.ExceptionResponse"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

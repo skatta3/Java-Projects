@@ -1,0 +1,3 @@
+1638355986930	Move 'web.xml' to 'WEB-INF'
+1638356401872	Move 'spring-servlet.xml' to 'WEB-INF'
+1638356410385	Move 'views' to 'WEB-INF'

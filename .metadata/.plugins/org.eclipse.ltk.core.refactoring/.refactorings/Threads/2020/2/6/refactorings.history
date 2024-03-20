@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.java.training.threads.InterThread&apos; to &apos;InterThreadWD&apos;&#x0D;&#x0A;- Original project: &apos;Threads&apos;&#x0D;&#x0A;- Original element: &apos;com.java.training.threads.InterThread&apos;&#x0D;&#x0A;- Renamed element: &apos;com.java.training.threads.InterThreadWD&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InterThread&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.java.training.threads{InterThread.java[InterThread" matchStrategy="1" name="InterThreadWD" qualified="false" references="true" similarDeclarations="false" stamp="1581000089932" textual="false" version="1.0"/>
+</session>

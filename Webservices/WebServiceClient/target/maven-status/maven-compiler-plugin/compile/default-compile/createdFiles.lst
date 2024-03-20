@@ -1,0 +1,3 @@
+com\training\WebServiceClient\schemaObjs\User.class
+com\training\WebServiceClient\RestJsonClientService.class
+com\training\WebServiceClient\utils\JsonTransformer.class

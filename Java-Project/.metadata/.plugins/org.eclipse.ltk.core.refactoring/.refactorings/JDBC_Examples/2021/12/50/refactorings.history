@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CreateTable.java&apos; to &apos;MyApp-JDBC/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;JDBC_Examples&apos;&#x0D;&#x0A;- Destination element: &apos;MyApp-JDBC/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;com.java.training.jdbc.CreateTable.java&apos;" description="Copy compilation unit" destination="=MyApp-JDBC/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src&lt;com.java.training.jdbc{CreateTable.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1638805449144" units="1" version="1.0"/>
+</session>

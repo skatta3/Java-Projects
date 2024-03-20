@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Springboot-Jetty"/>
+			<item value="TestProj"/>
+			<item value="Jax-Rs-Project1"/>
+			<item value="JSON"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Springboot-Jetty"/>
+			<item value="TestProj"/>
+			<item value="Jax-Rs-Project1"/>
+			<item value="JSON"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\skatt\eclipse-workspace\JED\JPA-Hibernate"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\Spring-JWT"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\Security-Proj"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\SB-Proj-9"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\MyBatis-App"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.spring.jpa.SpringJPA"/>
+		</list>
+		<list key="groupId">
+			<item value="com.spring.jpa"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringJPA"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\skatt\eclipse-workspace\JED\SpringData-JPA"/>
+			<item value="C:\Users\skatt\Downloads\NetworkManagement\NetworkManagement"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\MicroserviceTutorials\quiz-service"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\MicroserviceTutorials"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\SpringBootSecurityJWTMySQL"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\Spring-JWT"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\SpringSecurityProject"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\SB-Proj-9"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JED\springboot-h2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

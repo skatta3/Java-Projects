@@ -1,0 +1,20 @@
+package com.jaxrs.domain;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement("configuration")
+@XmlAccessorType(XmlAccessType.FIELD)
+public class Configuration {
+	
+	private Integer id;
+	
+	private Link link;
+	
+	private String content;
+	
+	private String status;
+	
+
+}

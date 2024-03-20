@@ -1,0 +1,5 @@
+package com.jaxrs.common;
+
+public class Message {
+
+}

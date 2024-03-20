@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body ng-app="">
+<p>Form Input Controls.</p>
+<div >
+  <form>
+    First Name: <input type="text" ng-model="firstname">
+  </form>
+  <h1>You entered: {{firstname}}</h1>
+
+    Check to show a header:
+    <input type="checkbox" ng-model="myVar">
+   <h1 ng-show="myVar">My Header</h1>
+
+	<br/>
+  Pick a topic:
+  <input type="radio" ng-model="myRb" value="dogs">Dogs
+  <input type="radio" ng-model="myRb" value="tuts">Tutorials
+  <input type="radio" ng-model="myRb" value="cars">Cars
+
+<br/>
+  Select a Game you are interested:
+  <select ng-model="mySb">
+    <option value="">
+    <option value="cricket">Cricket
+    <option value="chess">Chess
+    <option value="tt">Table Tennis
+  </select>
+</div>
+
+<div ng-switch="myRb">
+  <div ng-switch-when="dogs">
+     <h1>Dogs</h1>
+     <p>Welcome to a world of dogs.</p>
+  </div>
+  <div ng-switch-when="tuts">
+     <h1>Tutorials</h1>
+     <p>Learn from examples.</p>
+  </div>
+  <div ng-switch-when="cars">
+     <h1>Cars</h1>
+     <p>Read about cars.</p>
+  </div>
+</div>
+<div ng-switch="mySb">
+  <div ng-switch-when="cricket">
+     <h1>Your Interest game is Cricket</h1>
+     <p>Do you know Kapil Dev led Indian Cricket Team when we won World Cup in 1983.</p>
+  </div>
+  <div ng-switch-when="chess">
+     <h1>Your Interest game is Chess</h1>
+     <p>Viswanathan Anand is the Grand Master in Chess.</p>
+  </div>
+  <div ng-switch-when="tt">
+     <h1>Your Interest game is Table Tennis</h1>
+     <p>Guess who is the Top Players in Table Tennis.</p>
+  </div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.java.parser&apos; to &apos;com.java.domparser&apos;&#x0D;&#x0A;- Original project: &apos;DOM-Parser&apos;&#x0D;&#x0A;- Original element: &apos;DOM-Parser/src/com.java.parser&apos;&#x0D;&#x0A;- Renamed element: &apos;DOM-Parser/src/com.java.domparser&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.java.parser&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.java.parser" name="com.java.domparser" qualified="false" references="true" stamp="1627638856338" textual="false" version="1.0"/>
+</session>

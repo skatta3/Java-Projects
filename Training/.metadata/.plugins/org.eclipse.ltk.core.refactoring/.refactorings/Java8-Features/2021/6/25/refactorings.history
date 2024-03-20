@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;TestArrayList.java&apos; to &apos;ForEachArrayList.java&apos;&#x0D;&#x0A;- Original project: &apos;Java8-Features&apos;&#x0D;&#x0A;- Original element: &apos;TestArrayList.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ForEachArrayList.java&apos;" description="Rename compilation unit &apos;TestArrayList.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{TestArrayList.java" name="ForEachArrayList.java" references="false" stamp="1623845721209" version="1.0"/>
+</session>

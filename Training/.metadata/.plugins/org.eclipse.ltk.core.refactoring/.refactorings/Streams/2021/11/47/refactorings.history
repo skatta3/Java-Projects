@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FileExample1.java&apos; to &apos;Avijit-Java/src/com.java.exceptions&apos;&#x0D;&#x0A;- Original project: &apos;Streams&apos;&#x0D;&#x0A;- Destination element: &apos;Avijit-Java/src/com.java.exceptions&apos;&#x0D;&#x0A;- Original element: &apos;com.java.files.FileExample1.java&apos;" description="Copy compilation unit" destination="=Avijit-Java/src&lt;com.java.exceptions" element1="/src&lt;com.java.files{FileExample1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1637117124936" units="1" version="1.0"/>
+</session>

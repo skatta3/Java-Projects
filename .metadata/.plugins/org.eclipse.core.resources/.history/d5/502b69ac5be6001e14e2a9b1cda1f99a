@@ -1,0 +1,13 @@
+package com.spring.first;
+
+public class MobileApp {
+	public static void main(String[] args) {
+//		Verizon vz = new Verizon();
+//		vz.voiceCalling();
+//		vz.sendTxtMessages();
+		
+		TMobile tm = new TMobile();
+		tm.voiceCalling();
+		tm.sendTxtMessages();
+	}
+}

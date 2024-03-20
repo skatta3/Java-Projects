@@ -1,0 +1,17 @@
+package com.yakrut.AddressService.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AddressController {
+	@GetMapping("/address")
+	public String getAddress() {
+		return "136, Rosegate ct";
+	}
+	
+	public AddressResponse getAddressByEmployeeId(@PathVariable("employeeId", int id)) {
+		
+	}
+}

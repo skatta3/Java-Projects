@@ -1,0 +1,8 @@
+package com.yakrut.EmployeeService;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class EmployeeAppCOnfig {
+
+}

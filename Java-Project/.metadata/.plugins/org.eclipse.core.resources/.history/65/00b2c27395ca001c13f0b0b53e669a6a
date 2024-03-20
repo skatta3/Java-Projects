@@ -1,0 +1,11 @@
+package com.yakrut.lambda;
+
+public class Person {
+	public enum gender {
+		MALE,FEMALE;
+	}
+	String name;
+	int age;
+	String emailAddress;
+	
+}

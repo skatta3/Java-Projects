@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CalculationWhileLoop.java&apos; to &apos;ControlFlow/src/com.java.whileloop&apos;&#x0D;&#x0A;- Original project: &apos;ControlFlow&apos;&#x0D;&#x0A;- Destination element: &apos;ControlFlow/src/com.java.whileloop&apos;&#x0D;&#x0A;- Original element: &apos;com.java.forloop.CalculationWhileLoop.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.java.whileloop" element1="/src&lt;com.java.forloop{CalculationWhileLoop.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1611289153528" units="1" version="1.0"/>
+</session>

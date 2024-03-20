@@ -1,0 +1,15 @@
+127.0.0.1 - - [09/Aug/2021:09:56:24 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:09:56:26 +0530] "GET /Spring-Security/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:09:56:46 +0530] "GET /Spring-Security/welcome HTTP/1.1" 404 1101
+127.0.0.1 - - [09/Aug/2021:10:00:33 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:00:33 +0530] "GET /Spring-Security/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:00:44 +0530] "GET /Spring-Security/welcome HTTP/1.1" 200 238
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:06:10 +0530] "GET /Spring-Security/welcome HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:06:11 +0530] "GET /Spring-Security/welcome HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:06:11 +0530] "GET /Spring-Security/welcome HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:06:11 +0530] "GET /Spring-Security/welcome HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:06:18 +0530] "GET /Spring-Security/register HTTP/1.1" 500 6489
+127.0.0.1 - - [09/Aug/2021:10:10:25 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:10:26 +0530] "GET /Spring-Security/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:10:34 +0530] "GET /Spring-Security/welcome HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [09/Aug/2021:10:10:37 +0530] "GET /Spring-Security/register HTTP/1.1" 200 1789

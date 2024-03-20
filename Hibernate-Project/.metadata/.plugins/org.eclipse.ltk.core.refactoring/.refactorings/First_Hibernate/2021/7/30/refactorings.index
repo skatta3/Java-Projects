@@ -1,0 +1,13 @@
+1626606614721	Copy compilation unit
+1626607530000	Encapsulate field 'listOfAddress'
+1626610777358	Copy compilation unit
+1626622799948	Copy compilation unit
+1626622825792	Rename type 'MainAppCollection'
+1626623099214	Encapsulate field 'vehicleId'
+1626623104337	Encapsulate field 'vehicleName'
+1626623434103	Encapsulate field 'vehicle'
+1626623909205	Encapsulate field 'vehicle'
+1626624777710	Encapsulate field 'user'
+1626626643620	Copy package
+1626626675016	Rename type 'MainApponetoone'
+1626626994859	Encapsulate field 'userList'

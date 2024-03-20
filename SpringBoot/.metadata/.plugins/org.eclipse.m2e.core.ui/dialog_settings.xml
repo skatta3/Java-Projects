@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\skatt\eclipse-workspace\SpringBoot\EmployeeService"/>
+			<item value="C:\Users\skatt\eclipse-workspace\SpringBoot\AddressService"/>
+			<item value="C:\Users\skatt\Downloads\demo-application\demo-application"/>
+			<item value="C:\Users\skatt\Downloads\MyRepo\spring-petclinic"/>
+			<item value="C:\Users\skatt\Downloads\MyRepo\spring-amazon"/>
+			<item value="C:\Users\skatt\Downloads\MyRepo\spring-boot-tutorial-course\springboot-backend"/>
+			<item value="C:\Users\skatt\Documents\Yakrut\Java\SpringBoot\Labs\spring-data-rest-tutorial"/>
+			<item value="C:\Users\skatt\Documents\Yakrut\Java\SpringBoot\Labs\springData"/>
+			<item value="C:\Users\skatt\Downloads\myexample-sb\myexample-sb"/>
+			<item value="C:\Users\skatt\Downloads\TestSpringBoot\TestSpringBoot"/>
+			<item value="C:\Users\skatt\Downloads\Test-002\Test-002"/>
+			<item value="C:\Users\skatt\Downloads\demo\demo"/>
+			<item value="C:\Users\skatt\Downloads\Test-SB-001\Test-SB-001"/>
+			<item value="C:\Users\skatt\Downloads\Test-SpringBoot\Test-SpringBoot"/>
+			<item value="C:\Users\skatt\eclipse-workspace\SpringBoot\SpringBoot-DB\SpringBoot-DB"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="S3FilesWeb"/>
+			<item value="FileUpload"/>
+			<item value="JAXRS-Example"/>
+			<item value="Annotations"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="S3FilesWeb"/>
+			<item value="FileUpload"/>
+			<item value="JAXRS-Example"/>
+			<item value="Annotations"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.springboot.internationalization"/>
+			<item value="com.example"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpringbootInternationalization"/>
+			<item value="TestMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

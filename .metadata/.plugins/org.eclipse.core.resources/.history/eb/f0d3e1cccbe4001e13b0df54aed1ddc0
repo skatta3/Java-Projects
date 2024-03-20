@@ -1,0 +1,5 @@
+package com.java.manageuser.model;
+
+public class User {
+
+}

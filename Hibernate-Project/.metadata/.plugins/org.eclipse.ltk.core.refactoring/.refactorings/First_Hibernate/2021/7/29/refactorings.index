@@ -1,0 +1,10 @@
+1626454099107	Delete element
+1626482128478	Encapsulate field 'userID'
+1626482135825	Encapsulate field 'userName'
+1626482288777	Encapsulate field 'street'
+1626482293404	Encapsulate field 'city'
+1626482299204	Encapsulate field 'state'
+1626482304459	Encapsulate field 'pincode'
+1626485565413	Copy compilation units
+1626485638264	Copy compilation unit
+1626485826816	Rename type 'MainAppUser'

@@ -1,0 +1,11 @@
+127.0.0.1 - - [26/Aug/2023:06:36:31 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:36:32 +0530] "GET /TestServlets/ HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:36:56 +0530] "GET /TestServlets/application.jsp HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:36:56 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:40:48 +0530] "GET /TestServlets/process.jsp HTTP/1.1" 500 2280
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:41:20 +0530] "GET /TestServlets/process.jsp HTTP/1.1" 500 200
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:41:31 +0530] "GET /ServletExamples HTTP/1.1" 404 766
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:42:08 +0530] "GET /ServletExamples HTTP/1.1" 404 766
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:42:17 +0530] "GET /TestServlets/process.jsp HTTP/1.1" 500 197
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:42:19 +0530] "GET /TestServlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:06:46:21 +0530] "GET /TestServlets/session.jsp HTTP/1.1" 200 911

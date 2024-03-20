@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\skatt\Downloads\localrepo\spring-petclinic"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Webservices\SecureRESTApiWithBasicAuthentication"/>
+			<item value="C:\Users\skatt\eclipse-workspace\IDRBT\Hateoas"/>
+			<item value="C:\Users\skatt\eclipse-workspace\IDRBT\BasicAuth"/>
+			<item value="C:\Users\skatt\eclipse-workspace\IDRBT\restful-web-services"/>
+			<item value="C:\Users\skatt\Downloads\RestProject\RestClient"/>
+			<item value="C:\Users\skatt\Downloads\RestProject\restAPI"/>
+			<item value="C:\Users\skatt\Downloads\SecureRESTApiWithBasicAuthentication"/>
+			<item value="C:\Trainings\IDRBT\API_Dev\SecureRESTWithOAuth"/>
+			<item value="D:\workspace\IDRBT\webapp"/>
+			<item value="D:\workspace\IDRBT\java-maven-junit-helloworld"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Test-01"/>
+			<item value="Test-001"/>
+			<item value="myPHPProject"/>
+			<item value="TestREST"/>
+			<item value="UserMgmt"/>
+			<item value="RestfulClient"/>
+			<item value="JSONRESTful"/>
+			<item value="UpdateUserManagement"/>
+			<item value="UserManagement"/>
+			<item value="com.idrbt.training"/>
+		</list>
+		<list key="name">
+			<item value="Hello World Java"/>
+		</list>
+		<list key="artifactId">
+			<item value="Test-01"/>
+			<item value="Test-001"/>
+			<item value="myPHPProject"/>
+			<item value="TestREST"/>
+			<item value="UserMgmt"/>
+			<item value="RestfulClient"/>
+			<item value="JSONRESTful"/>
+			<item value="UpdateUserManagement"/>
+			<item value="UserManagement"/>
+			<item value="HelloWorldMaven"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\skatt\eclipse-workspace\Webservices\restful-web-services\pom.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\IDRBT\UserManagement"/>
+			<item value="C:\Users\skatt\eclipse-workspace\IDRBT"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.merritos"/>
+			<item value="com.java.maven"/>
+			<item value="UserMgmt"/>
+			<item value="RESTBasicAuth"/>
+		</list>
+		<list key="name">
+			<item value="UserMgmt"/>
+			<item value="RESTBasicAuth"/>
+		</list>
+		<list key="artifactId">
+			<item value="Maven-Project1"/>
+			<item value="TestMaven"/>
+			<item value="UserMgmt"/>
+			<item value="RESTBasicAuth"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

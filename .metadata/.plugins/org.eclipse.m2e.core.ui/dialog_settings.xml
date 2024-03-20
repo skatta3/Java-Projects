@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\skatt\Downloads\MyRepo\UserManagement"/>
+			<item value="C:\Users\skatt\Documents\NEW"/>
+			<item value="C:\Users\skatt\Desktop"/>
+			<item value="Test1"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JSTLExamples\pom.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JSTLExamples\WebContent\customtagattributes.jsp"/>
+			<item value="C:\Users\skatt\eclipse-workspace\JSTLExamples"/>
+			<item value="C:\Users\skatt\eclipse-workspace\HelloWeb"/>
+			<item value="C:\Users\skatt\OneDrive\Documents\Trainings\Practice\spring-petclinic"/>
+			<item value="D:\workspace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\skatt\Downloads\MyRepo\spring-petclinic"/>
+			<item value="C:\Users\skatt\Downloads\MyRepo\UserManagement"/>
+			<item value="C:\Users\skatt\Downloads\HibernateExamples-20220308T043543Z-001\HibernateExamples"/>
+			<item value="C:\Users\skatt\Downloads\Implementing Basic Authentication with Spring Security\Implementing Basic Authentication with Spring Security\restful-web-services"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Spring\pom.xml"/>
+			<item value="C:\Users\skatt\Documents\Trainings\Practice\spring-petclinic"/>
+			<item value="C:\Users\skatt\eclipse-workspace\HelloWeb"/>
+			<item value="C:\Users\skatt\eclipse-workspace\SpringHibernateExample"/>
+			<item value="C:\Users\skatt\eclipse-workspace\junithttpservletrequest"/>
+			<item value="C:\Users\skatt\eclipse-workspace\junitwebapp"/>
+			<item value="C:\Users\skatt\OneDrive\Documents\Trainings\DevOps\Practice\spring-petclinic"/>
+			<item value="C:\Users\skatt\eclipse-workspace\springAOP"/>
+			<item value="C:\Users\skatt\OneDrive\Documents\Trainings\Practice\spring-petclinic"/>
+			<item value="C:\Users\skatt\eclipse-workspace\WebServiceClient"/>
+			<item value="C:\Users\skatt\eclipse-workspace\restful-web-services"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="ManageUser"/>
+			<item value="Project04-Web"/>
+			<item value="JSTLExamples"/>
+			<item value="Spring-Req-Session-scope"/>
+			<item value="HelloWeb"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="ManageUser"/>
+			<item value="Project04-Web"/>
+			<item value="JSTLExamples"/>
+			<item value="Spring-Req-Session-scope"/>
+			<item value="HelloWeb"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

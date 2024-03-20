@@ -1,0 +1,14 @@
+package com.jaxrs.domain;
+
+public class Configuration {
+	
+	private Integer id;
+	
+	private Link link;
+	
+	private String content;
+	
+	private String status;
+	
+
+}

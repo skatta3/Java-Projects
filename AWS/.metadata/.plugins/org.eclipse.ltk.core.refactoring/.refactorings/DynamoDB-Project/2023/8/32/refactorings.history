@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.merritos.DynamoDBInsertapp.java&apos; to &apos;DynamoDBInsertApp.java&apos;&#x0D;&#x0A;- Original project: &apos;DynamoDB-Project&apos;&#x0D;&#x0A;- Original element: &apos;com.merritos.DynamoDBInsertapp.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.merritos.DynamoDBInsertApp.java&apos;" description="Rename compilation unit &apos;DynamoDBInsertapp.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.merritos{DynamoDBInsertapp.java" name="DynamoDBInsertApp.java" references="false" stamp="1691511527684" version="1.0"/>
+</session>

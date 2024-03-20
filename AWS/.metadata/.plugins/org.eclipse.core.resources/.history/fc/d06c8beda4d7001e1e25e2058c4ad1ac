@@ -1,0 +1,18 @@
+package com.jaxrs.domain;
+
+import java.util.List;
+
+import javax.ws.rs.core.Link;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+
+@XmlRootElement(name="configurations")
+@XmlAccessorType(XmlAccessType.FIELD)
+public class Configurations {
+	private Integer size;
+	
+	private Link link;
+	
+	private List<configuration> configurations;
+	
+}

@@ -1,0 +1,11 @@
+com\jaxrs\dao\ConfigurationDB.class
+net\restfulapi\app\rest\domain\Configurations.class
+com\jaxrs\domain\Configuration.class
+net\restfulapi\app\rest\domain\common\Status.class
+com\jaxrs\common\Status.class
+net\restfulapi\app\rest\domain\common\Message.class
+com\jaxrs\domain\Configurations.class
+net\restfulapi\app\rest\domain\Configuration.class
+com\jaxrs\common\Message.class
+com\jaxrs\app\NetworkApplication.class
+com\jaxrs\service\ConfigurationResource.class

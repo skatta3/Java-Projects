@@ -1,0 +1,5 @@
+package com.yakrut.AddressService.repo;
+
+public interface AddressRepo {
+
+}

@@ -1,0 +1,4 @@
+com\yakrut\jaxrs\service\PersonServiceImpl.class
+com\yakrut\jaxrs\model\Person.class
+com\yakrut\jaxrs\model\Response.class
+com\yakrut\jaxrs\service\PersonService.class

@@ -1,0 +1,16 @@
+2022-07-20 09:53:30,692 +0530 [main] INFO  (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2022-07-20 09:53:30,706 +0530 [main] INFO  (Version.java:54) - HHH000412: Hibernate Core {4.3.5.Final}
+2022-07-20 09:53:30,710 +0530 [main] INFO  (Environment.java:239) - HHH000206: hibernate.properties not found
+2022-07-20 09:53:30,714 +0530 [main] INFO  (Environment.java:346) - HHH000021: Bytecode provider name : javassist
+2022-07-20 09:53:30,747 +0530 [main] INFO  (Configuration.java:2073) - HHH000043: Configuring from resource: hibernate.cfg.xml
+2022-07-20 09:53:30,747 +0530 [main] INFO  (Configuration.java:2092) - HHH000040: Configuration resource: hibernate.cfg.xml
+2022-07-20 09:53:30,821 +0530 [main] INFO  (Configuration.java:2214) - HHH000041: Configured SessionFactory: null
+2022-07-20 09:53:30,949 +0530 [main] WARN  (DriverManagerConnectionProviderImpl.java:93) - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2022-07-20 09:53:31,029 +0530 [main] INFO  (DriverManagerConnectionProviderImpl.java:166) - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/logging]
+2022-07-20 09:53:31,030 +0530 [main] INFO  (DriverManagerConnectionProviderImpl.java:175) - HHH000046: Connection properties: {user=root, password=****}
+2022-07-20 09:53:31,031 +0530 [main] INFO  (DriverManagerConnectionProviderImpl.java:180) - HHH000006: Autocommit mode: false
+2022-07-20 09:53:31,034 +0530 [main] INFO  (DriverManagerConnectionProviderImpl.java:102) - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-07-20 09:53:32,096 +0530 [main] INFO  (Dialect.java:145) - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-20 09:53:32,257 +0530 [main] INFO  (TransactionFactoryInitiator.java:62) - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2022-07-20 09:53:32,266 +0530 [main] INFO  (ASTQueryTranslatorFactory.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2022-07-20 09:53:32,874 +0530 [main] INFO  (DriverManagerConnectionProviderImpl.java:281) - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/logging]

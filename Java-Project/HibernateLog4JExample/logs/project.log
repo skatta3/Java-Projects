@@ -1,0 +1,5 @@
+2022-07-20 09:53:30,822 +0530 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2022-07-20 09:53:30,936 +0530 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2022-07-20 09:53:32,861 +0530 [main] INFO  (HibernateLog4jExample.java:36) - List of Employees::1,Columbus
+2022-07-20 09:53:32,861 +0530 [main] INFO  (HibernateLog4jExample.java:36) - List of Employees::2,Hyderabad
+2022-07-20 09:53:32,878 +0530 [main] INFO  (HibernateLog4jExample.java:41) - DONE

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WebServiceClient.java&apos; to &apos;UserManagement/src/com.training.idrbt&apos;&#x0D;&#x0A;- Original project: &apos;UpdateUserManagement&apos;&#x0D;&#x0A;- Destination element: &apos;UserManagement/src/com.training.idrbt&apos;&#x0D;&#x0A;- Original element: &apos;com.training.idrbt.update.WebServiceClient.java&apos;" description="Copy compilation unit" destination="=UserManagement/src&lt;com.training.idrbt" element1="/src&lt;com.training.idrbt.update{WebServiceClient.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1581678473998" units="1" version="1.0"/>
+</session>

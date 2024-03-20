@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+D:\workspace\IDRBT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\341118613.index
+\HelloWorldMaven\src
+D:\workspace\IDRBT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2165867851.index
+\HelloWorldMaven\src
+D:\workspace\IDRBT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3705717536.index
+\HelloWorldMaven\src
+C:\Users\skatt\eclipse-workspace\IDRBT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3706941411.index
+\SecureRESTWithOAuth\src\main\java
+C:\Users\skatt\eclipse-workspace\IDRBT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\14489375.index
+\SecureRESTWithOAuth\src\main\java

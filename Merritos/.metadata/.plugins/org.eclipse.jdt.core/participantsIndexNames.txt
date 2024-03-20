@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1232498680.index
+\SpringMVC-NoXml\src\main\java
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1202294123.index
+\Spring-Security\src\main\java
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2733672291.index
+\Spring-Security\src\main\java
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\314816152.index
+\denote\src
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3828802050.index
+\Spring-mvc-first\src\main\java
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1786101908.index
+\Spring-MVC-NOXML\src\main\java
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2970503222.index
+\Servlets-01\src
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2999693640.index
+\Spring-mvc-first\src\main\java
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\393258137.index
+\Angular-JS\src
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2964604824.index
+\denote\src
+C:\Users\skatt\eclipse-workspace\Merritos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3584576336.index
+\SpringMVC-NoXml\src\main\java

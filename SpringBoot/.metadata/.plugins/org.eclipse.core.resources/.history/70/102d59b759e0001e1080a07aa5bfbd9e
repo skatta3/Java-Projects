@@ -1,0 +1,5 @@
+package com.yakrut.AddressService.service;
+
+public class AddressAppConfig {
+
+}

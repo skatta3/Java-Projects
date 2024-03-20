@@ -1,0 +1,13 @@
+package com.yakrut.AddressService.service;
+
+import org.springframework.stereotype.Service;
+
+import com.yakrut.AddressService.response.AddressResponse;
+
+@Service
+public class AddressService {
+	public AddressResponse addressResponse(int employeeId) {
+		
+	}
+
+}

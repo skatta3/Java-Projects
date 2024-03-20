@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\skatt\eclipse-workspace\Hibernate-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3861173526.index
+\HibernateWebApp\src
+C:\Users\skatt\eclipse-workspace\Hibernate-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1038706766.index
+\MVC-Project\src\main\java
+C:\Users\skatt\eclipse-workspace\Hibernate-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1676650807.index
+\register\src
+C:\Users\skatt\eclipse-workspace\Hibernate-Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2878735527.index
+\HBWApp\src

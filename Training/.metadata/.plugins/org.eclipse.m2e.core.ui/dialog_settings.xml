@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="testMongo"/>
+			<item value="mongodb"/>
+			<item value="com.maven.test"/>
+			<item value="com.hibernate"/>
+			<item value="com.denote1"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="testMongo"/>
+			<item value="mongodb"/>
+			<item value="Test-Maven"/>
+			<item value="TestHibernate1"/>
+			<item value="TestHibernate"/>
+			<item value="denote-project"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\skatt\Downloads\MyRepo\project"/>
+			<item value="C:\Users\skatt\Downloads\MyRepo\spring-petclinic"/>
+			<item value="C:\Users\skatt\Downloads\localrepo\spring-petclinic"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="UserManagement"/>
+			<item value="com.merritos"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="UserManagement"/>
+			<item value="TestMaven"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\skatt\eclipse-workspace\Training\mongodb\pom.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Training\UserManagement\src\main\java\DB-Table.sql"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Training\TestHibernate\pom.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Training\TestHibernate\src\main\java\com\hibernate\MainApp.java"/>
+			<item value="C:\Users\skatt\git\denote\denote\pom.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Training\JDBC"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Training\JDBC\src\com\java\jdbc\CreateTable.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

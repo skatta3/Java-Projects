@@ -1,0 +1,9 @@
+21b35879-0d29-4bff-8c18-23cc861442e8\:credentialProfileName=default
+alwaysReloadWhenCredentialProfileFileModified=true
+cognitoIdentityId=us-east-1\:617119f9-1d5f-4bdc-bdb1-71ac43b7a755
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=21b35879-0d29-4bff-8c18-23cc861442e8
+currentAccount=21b35879-0d29-4bff-8c18-23cc861442e8
+currentDefaultAccount=21b35879-0d29-4bff-8c18-23cc861442e8
+ec2PreferencesImported=true
+eclipse.preferences.version=1

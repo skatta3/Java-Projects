@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.java.classes.portfolio&apos; to &apos;Department&apos;&#x0D;&#x0A;- Original project: &apos;Jamal-Java&apos;&#x0D;&#x0A;- Original element: &apos;com.java.classes.portfolio&apos;&#x0D;&#x0A;- Renamed element: &apos;com.java.classes.Department&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;portfolio&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.java.classes{portfolio.java[portfolio" matchStrategy="1" name="Department" qualified="false" references="true" similarDeclarations="false" stamp="1612323730153" textual="false" version="1.0"/>
+</session>

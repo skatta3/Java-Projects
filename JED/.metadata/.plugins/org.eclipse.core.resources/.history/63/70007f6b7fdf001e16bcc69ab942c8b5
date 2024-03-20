@@ -1,0 +1,5 @@
+package com.SpringDataJPA;
+
+public class CustomerRepository {
+
+}

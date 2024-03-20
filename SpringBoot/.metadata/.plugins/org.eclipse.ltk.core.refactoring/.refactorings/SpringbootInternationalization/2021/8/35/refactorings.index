@@ -1,0 +1,20 @@
+1629606428117	Rename type 'SpringbootInternationalizationApplication'
+1629606509931	Rename type 'HelloController'
+1629606761769	Rename resource 'internationalization'
+1629606784448	Rename resource 'lang_de.properties'
+1629606865590	Rename resource 'lang_fr.properties'
+1629606993999	Delete element
+1629607454679	Rename type 'PageController'
+1629608497063	Delete element
+1629609251444	Rename resource 'lang.properties'
+1629609277304	Rename resource 'res_it.properties'
+1629609512624	Rename resource 'hello.html'
+1629609613712	Delete element
+1629609629873	Delete element
+1629609641102	Delete element
+1629609652193	Move file
+1629609655015	Move file
+1629609974441	Delete element
+1629610402266	Rename type 'HelloController'
+1629610537562	Delete element
+1629612086574	Rename resource 'message_fr.properties'

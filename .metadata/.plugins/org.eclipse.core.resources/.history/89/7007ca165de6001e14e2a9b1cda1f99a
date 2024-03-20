@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+  <bean id="sim1" class="com.spring.first.Verizon">
+        <constructor-arg index="0" value="India"></constructor-arg>
+        <constructor-arg index="1" value="20000"></constructor-arg>
+    </bean>
+    <context:annotation-config />
+</beans>
+
+

@@ -1,0 +1,8 @@
+package com.java.ems;
+
+public class Recruiter extends Employee {
+	
+	Employee emp1 = new Employee();
+	emp1.empID
+
+}

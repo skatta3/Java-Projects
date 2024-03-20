@@ -1,0 +1,8 @@
+package com.jps.hibernate.service;
+
+public interface EmployeeManager 
+{
+  public List<EmployeeEntity> getAllEmployees();
+  public List<DepartmentEntity> getAllDepartments();
+  public void addEmployee(EmployeeEntity employee);
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body ng-app="myApp">
+
+<my-directive></my-directive>
+
+<script>
+var app = angular.module("myApp", []);
+app.directive("myDirective", function() {
+    return {
+        template : "<h1>Testing Custom Directive!</h1>"
+    };
+});
+</script>
+
+</body>
+</html>

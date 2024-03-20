@@ -1,0 +1,19 @@
+package com.yakrut.AddressService.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.yakrut.AddressService.repo.AddressRepo;
+import com.yakrut.AddressService.response.AddressResponse;
+
+@Service
+public class AddressService {
+	
+	@Autowired
+	AddressRepo addressRepo;
+	
+	public AddressResponse addressResponse(int employeeId) {
+		addressRepo.findAddressByEmployeeId(employeeId);
+	}
+
+}

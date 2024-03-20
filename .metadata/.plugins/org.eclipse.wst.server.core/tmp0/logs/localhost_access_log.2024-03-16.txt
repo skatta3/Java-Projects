@@ -1,0 +1,4 @@
+127.0.0.1 - - [16/Mar/2024:07:29:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Mar/2024:07:29:12 +0530] "GET /Project04-Web/ HTTP/1.1" 200 371
+0:0:0:0:0:0:0:1 - - [16/Mar/2024:07:29:42 +0530] "GET /Project04-Web/sendredirect.html HTTP/1.1" 200 287
+0:0:0:0:0:0:0:1 - - [16/Mar/2024:07:29:49 +0530] "GET /Project04-Web/MySearcher?name=AWS HTTP/1.1" 302 -

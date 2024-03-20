@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;JavaPractice/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Java-Training&apos;&#x0D;&#x0A;- Destination element: &apos;JavaPractice/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.training.practice.ArrayExample.java&#x0D;&#x0A;     com.training.practice.HelloWorld.java" description="Copy compilation units" destination="=JavaPractice/src&lt;" element1="/src&lt;com.training.practice{ArrayExample.java" element2="/src&lt;com.training.practice{HelloWorld.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1579609718321" units="2" version="1.0"/>
+</session>

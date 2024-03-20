@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Student.java&apos; to &apos;Streams/src/com.java.objectstream&apos;&#x0D;&#x0A;- Original project: &apos;Collections&apos;&#x0D;&#x0A;- Destination element: &apos;Streams/src/com.java.objectstream&apos;&#x0D;&#x0A;- Original element: &apos;com.java.arraylist.Student.java&apos;" description="Copy compilation unit" destination="=Streams/src&lt;com.java.objectstream" element1="/src&lt;com.java.arraylist{Student.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1614602076285" units="1" version="1.0"/>
+</session>

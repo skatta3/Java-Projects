@@ -1,0 +1,17 @@
+package com.yakrut.EmployeeService.entity;
+
+import org.springframework.data.annotation.Id;
+
+
+
+@Entity
+@Table(name="employee")
+public class Employee {
+	@Id
+	@GeneratedValue(Strategy = GeneratedType.IDENTITY)
+	private int id;
+	private String name;
+	private String email;
+	private String bloodgroup;
+
+}

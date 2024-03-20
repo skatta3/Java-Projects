@@ -1,0 +1,5 @@
+127.0.0.1 - - [03/Oct/2023:06:24:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:06:24:34 +0530] "GET /HibernateWebApp/ HTTP/1.1" 200 1077
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:06:24:47 +0530] "GET /HibernateWebApp/ HTTP/1.1" 200 1077
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:06:25:31 +0530] "POST /HibernateWebApp/register HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2023:06:25:31 +0530] "GET /HibernateWebApp/Success HTTP/1.1" 200 86

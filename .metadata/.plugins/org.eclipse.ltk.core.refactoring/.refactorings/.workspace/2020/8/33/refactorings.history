@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;JDBC_Examples&apos;" deleteContents="true" description="Delete resource &apos;JDBC_Examples&apos;" element1="/JDBC_Examples" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1597219254278"/>&#x0A;<refactoring comment="Rename resource &apos;springexample&apos; to &apos;springAOP&apos;" description="Rename resource &apos;springexample&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/springexample" name="springAOP" stamp="1597219366388" updateReferences="true"/>
+</session>

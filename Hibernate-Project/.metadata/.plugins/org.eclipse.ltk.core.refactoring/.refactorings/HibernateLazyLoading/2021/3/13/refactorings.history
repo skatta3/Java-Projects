@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.hibernate.HibernateLazyLoading.entity.Entity.java&apos; to &apos;Story.java&apos;&#x0D;&#x0A;- Original project: &apos;HibernateLazyLoading&apos;&#x0D;&#x0A;- Original element: &apos;com.hibernate.HibernateLazyLoading.entity.Entity.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.hibernate.HibernateLazyLoading.entity.Story.java&apos;" description="Rename compilation unit &apos;Entity.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hibernate.HibernateLazyLoading.entity{Entity.java" name="Story.java" references="false" stamp="1616386142877" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+package com.codejava.aws;
+
+import java.io.InputStream;
+import software.amazon.awssdk.awscore.exception.AwsServiceException;
+import software.amazon.awssdk.core.exception.SdkClientException;
+import software.amazon.awssdk.core.sync.RequestBody;
+import software.amazon.awssdk.services.s3.S3Client;
+import software.amazon.awssdk.services.s3.model.PutObjectRequest;
+import software.amazon.awssdk.services.s3.model.S3Exception;
+
+public class S3Util {
+	private static final String BUCKET="mybucket-s3-files";
+
+	
+}

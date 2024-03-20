@@ -1,0 +1,17 @@
+package com.jaxrs.domain;
+
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement("configuration")
+public class Configuration {
+	
+	private Integer id;
+	
+	private Link link;
+	
+	private String content;
+	
+	private String status;
+	
+
+}

@@ -1,0 +1,5 @@
+package com.yakrut.EmployeeService.feignclient;
+
+public interface AddressClient {
+
+}

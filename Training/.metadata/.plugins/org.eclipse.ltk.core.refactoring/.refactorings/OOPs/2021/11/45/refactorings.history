@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SuperIV.java&apos; to &apos;Test-Project/src/com.java.oct31&apos;&#x0D;&#x0A;- Original project: &apos;OOPs&apos;&#x0D;&#x0A;- Destination element: &apos;Test-Project/src/com.java.oct31&apos;&#x0D;&#x0A;- Original element: &apos;com.java.superkw.SuperIV.java&apos;" description="Copy compilation unit" destination="=Test-Project/src&lt;com.java.oct31" element1="/src&lt;com.java.superkw{SuperIV.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1635729242929" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <display-name>ServletExamples1</display-name>
+
+	<servlet>  
+	    <servlet-name>DisplayImage</servlet-name>  
+	    <servlet-class>com.java.servletoutputstream.DisplayImage</servlet-class>  
+  </servlet>  
+  
+  <servlet-mapping>  
+    <servlet-name>DisplayImage</servlet-name>  
+    <url-pattern>/imageservlet</url-pattern>  
+  </servlet-mapping>  
+	<servlet>  
+	    <servlet-name>FilterConfigServlet</servlet-name>  
+	    <servlet-class>com.java.filterconfig.FilterConfigServlet</servlet-class>  
+  </servlet>  
+  
+  <servlet-mapping>  
+    <servlet-name>FilterConfigServlet</servlet-name>  
+    <url-pattern>/filterconfigservlet</url-pattern>  
+  </servlet-mapping>  
+    
+  <filter>  
+	  <filter-name>f2</filter-name>  
+	  <filter-class>com.java.filterconfig.MyFilter</filter-class>  
+	  <init-param>  
+		  <param-name>construction</param-name>  
+		  <param-value>yes</param-value>  
+	  </init-param>  
+  </filter>  
+  <filter-mapping>  
+	  <filter-name>f2</filter-name>  
+	  <url-pattern>/filterconfigservlet</url-pattern>  
+  </filter-mapping> 
+  
+<servlet>  
+    <servlet-name>AdminServlet</servlet-name>  
+    <servlet-class>com.java.authenticate.AdminServlet</servlet-class>  
+  </servlet>  
+  
+  <servlet-mapping>  
+    <servlet-name>AdminServlet</servlet-name>  
+    <url-pattern>/authenticateservlet1</url-pattern>  
+  </servlet-mapping>  
+    
+<!-- 	<filter>  
+		 <filter-name>authenticatefilter</filter-name>  
+		 <filter-class>com.java.authenticate.MyFilter</filter-class>  
+	 </filter>  
+	 <filter-mapping>  
+		 <filter-name>authenticatefilter</filter-name>  
+		 <url-pattern>/authenticateservlet1</url-pattern>  
+	 </filter-mapping>   -->
+    
+	<servlet>  
+		<servlet-name>s1</servlet-name>  
+		<servlet-class>com.java.filter.FilterServlet</servlet-class>  
+	</servlet>  
+  
+	<servlet-mapping>  
+		<servlet-name>s1</servlet-name>  
+		<url-pattern>/servlet1</url-pattern>  
+	</servlet-mapping>  
+  
+	<filter>  
+		<filter-name>f1</filter-name>  
+		<filter-class>com.java.filter.MyFilter</filter-class>  
+	</filter>  
+   
+	<filter-mapping>  
+		<filter-name>f1</filter-name>  
+		<url-pattern>/servlet1</url-pattern>  
+	</filter-mapping>  
+  
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+</web-app>

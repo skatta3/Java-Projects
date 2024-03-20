@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\skatt\Downloads\MyRepo\CA\UserManagement"/>
+			<item value="C:\Users\skatt\Downloads\myrepo-mk\spring-petclinic"/>
+			<item value="C:\Users\skatt\Downloads\RESTfulWebServices-20220311T041249Z-001\RESTfulWebServices"/>
+			<item value="C:\Users\skatt\Downloads\localrepo\spring-boot-maven-example-helloworld"/>
+			<item value="C:\Users\skatt\Downloads\demo\demo"/>
+			<item value="C:\Users\skatt\Downloads\localrepo\TEST\spring-petclinic"/>
+			<item value="C:\Users\skatt\Downloads\localrepo\TEST2\spring-petclinic"/>
+			<item value="C:\Users\skatt\Downloads\localrepo\spring-petclinic"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\HBAnnotation"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\Test-Bezu"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\Test-AR\src\com\training\reg\Account.java"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\Test-001\src\com\java\strings\StringExample.java"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\Java8-Examples\src\com\java\optional\ExampleWOptional.java"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\Test-SpringMVC\pom.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\Spring-Examples\pom.xml"/>
+			<item value="C:\Users\skatt\Downloads\localrepo\TEST2\spring-petclinic\pom.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\spring-mvc-example\WebContent\WEB-INF\web.xml"/>
+			<item value="C:\Users\skatt\eclipse-workspace\Java-Project\Spring-Examples"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="HibernateLog4JExample"/>
+			<item value="HBAnnotation"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="HibernateLog4JExample"/>
+			<item value="HBAnnotation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Test-SpringMVC"/>
+			<item value="spring-mvc-example"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Test-SpringMVC"/>
+			<item value="spring-mvc-example"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

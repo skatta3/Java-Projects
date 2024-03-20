@@ -1,0 +1,25 @@
+package com.java.strings;
+
+public class StringEx {
+	public static void main(String[] args) {
+		String s1 = "Welcome";  //one way of declaring the String
+		
+		s1 = "Welcome to";
+		
+		s1 = "Welcome to Java";
+		
+		String s2 = "hello";
+		
+		String s3 = "Welcome";
+		
+		String fName = "Srinivas";
+		String lName = "Katta";
+		
+		String fullName = fName.concat(lName);
+		System.out.println(fullName);
+		
+		String s4 = new String("Welcome");
+		
+		System.out.println("Equals Method: " + s3.equals(s4));
+	}
+}

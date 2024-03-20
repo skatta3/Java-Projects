@@ -1,0 +1,18 @@
+INDEX VERSION 1.4+C:\Users\skatt\eclipse-workspace\Struts-Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3450809549.index
+2023532320.index
+3759863065.index
+2058312146.index
+1638955019.index
+1292517589.index
+2518235617.index
+2147480327.index
+3537603865.index
+3366048606.index
+836862851.index
+965590186.index
+2390851562.index
+3125265780.index
+3707290239.index
+452531887.index
+3395140271.index

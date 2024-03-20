@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="javax.mail.Address"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessorType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAttribute"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Link.JaxbAdapter"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlElement"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.util.Status"/>
+    <fullyQualifiedTypeName name="com.jaxrs.domain.Configuration"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Link"/>
+    <fullyQualifiedTypeName name="com.jaxrs.common.Status"/>
+    <fullyQualifiedTypeName name="com.jaxrs.service.ConfigurationResource"/>
+</qualifiedTypeNameHistroy>

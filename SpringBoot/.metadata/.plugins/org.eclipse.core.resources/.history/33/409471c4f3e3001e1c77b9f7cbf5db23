@@ -1,0 +1,11 @@
+package com.yakrut.EmployeeService.feignclient;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@FeignClient
+public interface AddressClient {
+
+	@GetMapping("/address/{id}")
+	getAddressByEmployeeId();
+}

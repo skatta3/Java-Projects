@@ -1,0 +1,24 @@
+2021-07-02 18:27:32,439 +0530 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2021-07-02 18:27:32,617 +0530 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2021-07-02 18:27:35,669 +0530 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::1,Columbus
+2021-07-02 18:27:35,669 +0530 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::2,Hyderabad
+2021-07-02 18:27:35,690 +0530 [main] INFO  (HibernateLog4jExample.java:42) - DONE
+2021-12-16 21:51:20,644 +0530 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2021-12-16 21:51:20,791 +0530 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2021-12-16 21:51:23,292 +0530 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::1,Columbus
+2021-12-16 21:51:23,292 +0530 [main] INFO  (HibernateLog4jExample.java:37) - List of Employees::2,Hyderabad
+2021-12-16 21:51:23,307 +0530 [main] INFO  (HibernateLog4jExample.java:42) - DONE
+2022-01-19 20:45:00,140 +0530 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2022-01-19 20:45:00,256 +0530 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2022-01-19 20:45:02,556 +0530 [main] INFO  (HibernateLog4jExample.java:38) - List of Employees::1,Columbus
+2022-01-19 20:45:02,556 +0530 [main] INFO  (HibernateLog4jExample.java:38) - List of Employees::2,Hyderabad
+2022-01-19 20:45:02,575 +0530 [main] INFO  (HibernateLog4jExample.java:43) - DONE
+2022-02-28 20:49:02,833 +0530 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2022-02-28 20:49:03,086 +0530 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2022-02-28 20:49:07,579 +0530 [main] ERROR (HibernateUtil.java:30) - Initial SessionFactory creation failed.org.hibernate.exception.JDBCConnectionException: Error calling Driver#connect
+2022-07-06 16:30:37,461 +0530 [main] ERROR (HibernateUtil.java:30) - Initial SessionFactory creation failed.org.hibernate.MappingException: Unable to load class [ com.logging.hibernate.model.Employee] declared in Hibernate configuration <mapping/> entry
+2022-07-06 16:31:46,624 +0530 [main] INFO  (HibernateUtil.java:20) - Hibernate Configuration loaded
+2022-07-06 16:31:46,854 +0530 [main] INFO  (HibernateUtil.java:23) - Hibernate serviceRegistry created
+2022-07-06 16:31:50,712 +0530 [main] INFO  (HibernateLog4jExample.java:36) - List of Employees::1,Columbus
+2022-07-06 16:31:50,713 +0530 [main] INFO  (HibernateLog4jExample.java:36) - List of Employees::2,Hyderabad
+2022-07-06 16:31:50,746 +0530 [main] INFO  (HibernateLog4jExample.java:41) - DONE
