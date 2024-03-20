@@ -1,8 +1,8 @@
-cognitoIdentityId=us-east-1\:622b0cc5-1481-ca05-02e8-f7782e0b5c1a
+9161bed2-3fb2-4f1c-9321-9546c91b554a\:credentialProfileName=default
+cognitoIdentityId=us-east-1\:622b0cc5-1465-c673-ba02-05090b584429
 cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
-credentialProfileAccountIds=e85b1916-df0a-4505-af85-914d3616719e
-currentAccount=e85b1916-df0a-4505-af85-914d3616719e
+credentialProfileAccountIds=9161bed2-3fb2-4f1c-9321-9546c91b554a
+currentAccount=9161bed2-3fb2-4f1c-9321-9546c91b554a
 currentDefaultAccount=
-e85b1916-df0a-4505-af85-914d3616719e\:credentialProfileName=default
 ec2PreferencesImported=true
 eclipse.preferences.version=1
