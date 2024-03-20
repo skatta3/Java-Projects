@@ -16929,3 +16929,4 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2024-02-02 19:16:47,819 [Worker-30: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of restful-web-services
 2024-02-02 19:16:47,820 [Worker-30: Building Workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for restful-web-services
 2024-02-02 19:16:47,840 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-20 15:29:16,124 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -1,5 +1,0 @@
-package com.jaxrs.db;
-
-public class ConfigurationDB {
-
-}

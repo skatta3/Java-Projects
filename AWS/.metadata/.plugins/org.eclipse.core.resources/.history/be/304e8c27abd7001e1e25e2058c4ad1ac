@@ -1,5 +1,0 @@
-package com.jaxrs.service;
-
-public class ConfigurationResource {
-
-}

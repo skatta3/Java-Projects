@@ -1,9 +1,0 @@
-package com.jaxrs.db;
-
-import java.util.concurrent.ConcurrentHashMap;
-
-public class ConfigurationDB {
-
-	private static Map<Integer,Configuration> configurationDB = new ConcurrentHashMap<Integer, Configuration>();
-	
-}

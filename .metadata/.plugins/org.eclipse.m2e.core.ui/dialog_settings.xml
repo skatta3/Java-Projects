@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\skatt\eclipse-workspace\Spring-Project"/>
+			<item value="C:\Users\skatt\eclipse-workspace\ManageUser"/>
 			<item value="C:\Users\skatt\Downloads\MyRepo\UserManagement"/>
 			<item value="C:\Users\skatt\Documents\NEW"/>
 			<item value="C:\Users\skatt\Desktop"/>
@@ -54,10 +56,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.yakrut"/>
+			<item value="com.spring"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Project-Spring"/>
+			<item value="Spring-Project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

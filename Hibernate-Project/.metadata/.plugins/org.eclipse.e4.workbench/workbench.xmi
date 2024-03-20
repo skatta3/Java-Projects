@@ -710,7 +710,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_iDNB4rXaEeq6cMRAtMgKfQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_p3VOkGMVEe6jw5PDPBhxHw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_hsP7Z7XaEeq6cMRAtMgKfQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_1w4EgOagEe6apYPUoDsLhA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_hsP7Z7XaEeq6cMRAtMgKfQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_iDNB47XaEeq6cMRAtMgKfQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -750,7 +750,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_iDNB6rXaEeq6cMRAtMgKfQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_p3ZgAGMVEe6jw5PDPBhxHw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_hsP7CrXaEeq6cMRAtMgKfQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_1w7u4OagEe6apYPUoDsLhA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_hsP7CrXaEeq6cMRAtMgKfQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_iDNB67XaEeq6cMRAtMgKfQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1104,6 +1104,7 @@
     <bindings xmi:id="_JRkqEXhsEeyrgO7UyOLztA" keySequence="ALT+CTRL+SHIFT+B S" command="_JQ7w4nhsEeyrgO7UyOLztA"/>
     <bindings xmi:id="_JRlRIHhsEeyrgO7UyOLztA" keySequence="ALT+SHIFT+D B" command="_JQ7w5HhsEeyrgO7UyOLztA"/>
     <bindings xmi:id="_n9-4sFyxEe6SJtmin9wRHg" keySequence="CTRL+R" command="_n9HWAlyxEe6SJtmin9wRHg"/>
+    <bindings xmi:id="_1UXHoOagEe6apYPUoDsLhA" keySequence="ALT+Z" command="_1TjPUOagEe6apYPUoDsLhA"/>
   </bindingTables>
   <bindingTables xmi:id="_hskqlLXaEeq6cMRAtMgKfQ" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" bindingContext="_hsP8aLXaEeq6cMRAtMgKfQ">
     <bindings xmi:id="_hskqlbXaEeq6cMRAtMgKfQ" keySequence="CTRL+CR" command="_hsGK3rXaEeq6cMRAtMgKfQ"/>
@@ -3853,6 +3854,8 @@
   <commands xmi:id="_n9HWAVyxEe6SJtmin9wRHg" elementId="com.amazonaws.eclipse.command.openGeneralFeedbackEmail" commandName="Report Bug or Enhancement" category="_n9E5wVyxEe6SJtmin9wRHg"/>
   <commands xmi:id="_n9HWAlyxEe6SJtmin9wRHg" elementId="com.amazonaws.eclipse.dynamodb.editor.runScan" commandName="Run scan" category="_hsGJibXaEeq6cMRAtMgKfQ"/>
   <commands xmi:id="_n9HWA1yxEe6SJtmin9wRHg" elementId="com.amazonaws.eclipse.ec2.openLaunchWizardCommand" commandName="Open Launch Wizard" category="_n9E5wVyxEe6SJtmin9wRHg"/>
+  <commands xmi:id="_1TjPUOagEe6apYPUoDsLhA" elementId="runjettyrun.runJettyShortcut.debug" commandName="Debug Jetty Web Application" description="Debug Jetty Web app" category="_1TiBMeagEe6apYPUoDsLhA"/>
+  <commands xmi:id="_1TjPUeagEe6apYPUoDsLhA" elementId="runjettyrun.runJettyShortcut.run" commandName="Run Jetty Web Application" description="Debug Jetty Web app" category="_1TiBMeagEe6apYPUoDsLhA"/>
   <addons xmi:id="_hrpdj7XaEeq6cMRAtMgKfQ" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_hrpdkLXaEeq6cMRAtMgKfQ" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_hrpdkbXaEeq6cMRAtMgKfQ" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
@@ -3864,7 +3867,7 @@
   <addons xmi:id="_hrpdl7XaEeq6cMRAtMgKfQ" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_hrpdmLXaEeq6cMRAtMgKfQ" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_hrpdmbXaEeq6cMRAtMgKfQ" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_1YHmQOagEe6apYPUoDsLhA" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_hsGJcLXaEeq6cMRAtMgKfQ" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_hsGJcbXaEeq6cMRAtMgKfQ" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
@@ -3936,4 +3939,5 @@
   <categories xmi:id="_JQ57s3hsEeyrgO7UyOLztA" elementId="org.springframework.ide.eclipse.boot.commands.category" name="Spring Boot"/>
   <categories xmi:id="_Lavt4ZipEeylv_e-Jqgf5A" elementId="org.hibernate.eclipse.jdt.ui.run_jpaaction.category1" name="Generate Hibernate/JPA annotations"/>
   <categories xmi:id="_n9E5wVyxEe6SJtmin9wRHg" elementId="com.amazonaws.commands.category" name="AWS Toolkit for Eclipse Commands"/>
+  <categories xmi:id="_1TiBMeagEe6apYPUoDsLhA" elementId="runjettyrun.commands" name="Run Jetty Run"/>
 </application:Application>
