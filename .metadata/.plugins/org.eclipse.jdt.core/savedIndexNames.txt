@@ -8,7 +8,6 @@ INDEX VERSION 1.131+C:\Users\skatt\eclipse-workspace\.metadata\.plugins\org.ecli
 1903173869.index
 2740520656.index
 2215708670.index
-609018247.index
 1954450409.index
 470316774.index
 1608824824.index

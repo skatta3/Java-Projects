@@ -4,7 +4,9 @@
     xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
  
-  <bean id="emp" class="com.spring.DI.Employee"/> 
+  <bean id="emp" class="com.spring.DI.Employee"> 
+  	<constructor-arg><  	</constructor-arg>
+  </bean>
   
    <bean id="addr" class="com.spring.DI.Address"/> 
   
